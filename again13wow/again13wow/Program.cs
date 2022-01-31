@@ -18,7 +18,15 @@ namespace proj13
             int choose = Convert.ToInt32(Console.ReadLine());
             switch (choose)
             {
+<<<<<<< HEAD
 
+=======
+                case 1:
+                    Console.WriteLine("Ответ: " + (a + b));
+                    break;
+
+                default: Console.WriteLine("wrong"); break;
+>>>>>>> addit
             }
             Console.ReadKey();
         }
