@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("вау, тут будет конфликт в будущем, ага");
+﻿Console.WriteLine("Программа специально");
+Console.WriteLine("Изменяется");
+
+Console.WriteLine("Чтобы посмотреть");
+Console.WriteLine("Почему не работает слияние");
