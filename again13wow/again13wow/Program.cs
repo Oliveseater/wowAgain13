@@ -19,12 +19,6 @@ namespace proj13
             switch (choose)
             {
 
-                case 2:
-                    Console.WriteLine("Ответ: " + (a - b));
-                    break;
-
-                    break;
-                default: Console.WriteLine("wrong"); break;
             }
             Console.ReadKey();
         }
