@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\307-03\\Documents\\TRPO\\side1\\again13wow\\again13wow\\again13wow.csproj",
+      "projectUniqueName": "C:\\Users\\307-03\\Documents\\TRPO\\side2\\wowAgain13\\again13wow\\again13wow\\again13wow.csproj",
       "projectName": "again13wow",
-      "projectPath": "C:\\Users\\307-03\\Documents\\TRPO\\side1\\again13wow\\again13wow\\again13wow.csproj",
+      "projectPath": "C:\\Users\\307-03\\Documents\\TRPO\\side2\\wowAgain13\\again13wow\\again13wow\\again13wow.csproj",
       "packagesPath": "C:\\Users\\307-03\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\307-03\\Documents\\TRPO\\side1\\again13wow\\again13wow\\obj\\",
+      "outputPath": "C:\\Users\\307-03\\Documents\\TRPO\\side2\\wowAgain13\\again13wow\\again13wow\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\307-03\\AppData\\Roaming\\NuGet\\NuGet.Config",

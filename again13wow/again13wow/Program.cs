@@ -24,6 +24,10 @@ namespace proj13
                 case 2:
                     Console.WriteLine("Ответ: " + (a - b));
                     break;
+                case 3:
+                    Console.WriteLine("Ответ: " + (a * b));
+                    break;
+
                 default: Console.WriteLine("wrong"); break;
 
             }
@@ -31,3 +35,4 @@ namespace proj13
         }
     }
 }
+
